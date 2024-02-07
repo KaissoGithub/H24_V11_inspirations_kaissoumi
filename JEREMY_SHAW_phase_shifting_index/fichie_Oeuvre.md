@@ -13,7 +13,7 @@
 
 ## [📷 Titre de l’oeuvre]
 
-![Titre](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/titre_oeuvre.jpg =10x10)
+![Titre](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/titre_oeuvre.jpg)
 
 ## [📷 Nom de l’artiste]
 
