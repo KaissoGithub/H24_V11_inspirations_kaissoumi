@@ -4,9 +4,11 @@
 
 ## [📷 Lieu de mise en exposition]
 * **Moi devant l'entrée**
+  
 ![Moi devant l'entrée](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/Moi_Entree.png)
 
 * **L'entrée**
+  
 ![L'entrée](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/Entre_01.png)
 
 
@@ -27,6 +29,7 @@
 ## [📷 Nom de l’artiste]
 
 * **Cartel**
+  
 ![Cartel](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/titre_oeuvre.jpg)
 
 
@@ -37,6 +40,7 @@
 
 ## [📷 Description de l’oeuvre]
 * **Diverses vues de l'oeuvre**
+  
 ![]()
 
 ![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/trois_oeuvres_02.png)
@@ -45,9 +49,11 @@
 
 ## [📷 Type d’installation (contemplative, immersive, interactive)]
 * **Les consignes de l'oeuvre**
+  
 ![Consignes](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/description_01.png)
 
 * **Contemplative et immersive**
+  
 ![Contemplative et immersive](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/oeuvre_espace.png)
 
 ![Video](https://github.com/KaissoGithub/H24_V11_inspirations_kaissoumi/raw/main/JEREMY_SHAW_phase_shifting_index/media/video_oeuvres_B.mp4)
