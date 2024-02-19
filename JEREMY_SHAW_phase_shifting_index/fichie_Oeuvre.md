@@ -1,3 +1,10 @@
+## [Résumé de l'expérience]
+Le mercredi 31 janvier, dans le cadre de notre cours en œuvres et dispositifs multimédias. Nous sommes allés à l'exposition intitulée "Phase Shifting Index", de l'artiste Jeremy Shaw. Cette exposition est située à la fonderie darling, fonderie qui se définit comme étant "un lieu d'exposition d'art contemporain et de résidences pour artistes". Une fois sur les lieux, une personne nous invite à retirer nos bottes afin d'avoir une expérience plus agréable, car le sol est recouvert d'un tapis spécifiquement choisi par l'artiste derrière l'exposition. Par la suite, le présentateur nous explique un peu le principe de ce qu'on s'apprête à voir sans pour autant nous en révéler le contenu puisque c'est quelque chose qu'on découvrira par nous même et que nous prendrons la peine de discuter en groupe par la suite.
+
+Une fois les explications terminées, nous sommes invités à rentrer au lieu de l'exposition, la salle est sombre, le sol est comme prévu ; recouvert d'un tapis, les bancs le sont également. Nous sommes face à plusieurs écrans qui diffusent chacun des clips de personnes s'adonnant à divers types de dances, toutes les vidéos sont pour le moment désynchronisées, mais un thème a pourtant l'air de les lier, les personnes sont toutes "en trance". Le temps avance et les clips ont l'air peu à peu de se synchroniser jusqu'à le devenir parfaitement. Quelques instants plus tard, les écrans commencent à clignoter de manière intense et le son s'unifie afin de produire une cacophonie, elle-même adaptée aux coupures des clips. Ce passage durera quelques minutes avant que les écrans se ferment complètement, une autre séance de clips s'en suit, ces derniers ont l'air d'être corrompus, l'exposition se termine avec un paysage qui ressemble à la voie lactée.
+
+
+
 ## [📷 Nom de l’exposition ou de l’événement]
 * **Jeremy Shaw Phase Shifting Index**
 ![pamhplet](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/pamphlet_1.png)
@@ -64,6 +71,7 @@
 (Vue d'ensemble de la pièce + Faire un croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension))
 
 * **Croquis**
+  
 ![Croquis](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/dessin_notes.jpg)
 
 
