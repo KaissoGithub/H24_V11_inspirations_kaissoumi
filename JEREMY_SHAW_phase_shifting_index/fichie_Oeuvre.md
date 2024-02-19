@@ -5,7 +5,7 @@
 ## [📷 Lieu de mise en exposition]
 * **Moi devant l'entrée**
   
-![Moi devant l'entrée](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/Moi_Entree.png)
+![Moi devant l'entrée](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/Moi_Entree_400px.png)
 
 * **L'entrée**
   
