@@ -10,14 +10,14 @@ Une séance de discussion s'en suivit, le présentateur ainsi que le groupe ont 
 1. Les nombreux bancs
 1. Le grand espace
 1. L'installation sonore
-1. Le tapis qui recouvre le sol
-   
+1. Le tapis qui recouvre le sol 
+
 **tous ces éléments ont grandement contribué à l'immersion que l'on a expérimentée lors de l'exposition**
 
 ## [🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications]
 **Les flashs lumineux vers la fin de l'exposition étaient une très mauvaise idée, car certaines personnes sont sensibles à ces détails et cela peut provoquer des effets indésirés chez cette catégorie d'individus.**
 
-## [🔧 Spécifications techniques]
+## [🔧 Spécifications techniques] [^9]
 En ce qui concerne les spécificités techniques, des projecteurs étaient utilisés afin d'afficher sur des toiles les clips que nous avons visionnés, de grands haut-parleurs étaient cachés dans la pénombre aux deux coins de la pièce rectangulaire dans laquelle on se trouvait.
 
 * **Deux hauts parleurs**
@@ -86,8 +86,3 @@ La vue des installations était selon moi immersives, car les bancs et le sol, r
 * **Croquis**
   
 ![Croquis](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/dessin_notes.jpg)
-
-
-
-
-
