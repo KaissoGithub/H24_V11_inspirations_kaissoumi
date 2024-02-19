@@ -5,9 +5,6 @@ Une fois les explications terminées, nous sommes invités à rentrer au lieu de
 
 Une séance de discussion s'en suivit, le présentateur ainsi que le groupe ont commencé à échanger quant à ce que nous venons de voir, nous apprenons que l'artiste tentait de faire un rapprochement avec certaines substances qui étaient consommées de manière récréative par lui et ces amis. Le tapis représentait le confort de la maison. La corruption représentait l'indescriptible qui suivait la consommation de drogues.
 
-## [🔧 Spécifications techniques]
-En ce qui concerne les spécificités techniques, des projecteurs étaient utilisés afin d'afficher sur des toiles les clips que nous avons visionnés, de grands haut-parleurs étaient cachés dans la pénombre aux deux coins de la pièce rectangulaire dans laquelle on se trouvait.
-
 ## [❤️ Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications]
 1. La disposition des écrans
 1. Les nombreux bancs
@@ -20,6 +17,18 @@ En ce qui concerne les spécificités techniques, des projecteurs étaient utili
 ## [🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications]
 **Les flashs lumineux vers la fin de l'exposition étaient une très mauvaise idée, car certaines personnes sont sensibles à ces détails et cela peut provoquer des effets indésirés chez cette catégorie d'individus.**
 
+## [🔧 Spécifications techniques]
+En ce qui concerne les spécificités techniques, des projecteurs étaient utilisés afin d'afficher sur des toiles les clips que nous avons visionnés, de grands haut-parleurs étaient cachés dans la pénombre aux deux coins de la pièce rectangulaire dans laquelle on se trouvait.
+
+* **Deux hauts parleurs**
+  
+![Composantes et techniques](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/Baffe_01.png)
+
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/Baffe_02.png)
+
+* **Un projecteur**
+
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/projecteur_01.png)
 
 # [Détails de l'exposition]
 > [!NOTE]
@@ -53,18 +62,18 @@ En ce qui concerne les spécificités techniques, des projecteurs étaient utili
 
 ### [📷 Description de l’oeuvre]
 * **Diverses vues de l'oeuvre**
-  
-![]()
 
 ![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/trois_oeuvres_02.png)
 ![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/trois_oeuvres.png)
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/Salle_complete.png)
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/banc_ecran.jpg)
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/trois_oeuvres_02.png)
 
-
-### [📷 Type d’installation (contemplative, immersive, interactive)]
 * **Les consignes de l'oeuvre**
   
 ![Consignes](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/description_01.png)
 
+### [📷 Type d’installation (contemplative, immersive, interactive)]
 La vue des installations était selon moi immersives, car les bancs et le sol, recouvert de tapis étaient installé afin de faire le lien avec l'exposition, mais également afin de nous rendre à l'aise, l'obscurité afin de n'avoir que les écrans dans notre champ de vision et les haut-parleurs au volume élevé nous poussaient à nous concentrer sur l'œuvre qui était présentée.
   
 ![Contemplative](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/oeuvre_espace.png)
@@ -74,53 +83,11 @@ La vue des installations était selon moi immersives, car les bancs et le sol, r
 
 ### [📷 Mise en espace]
 
-(Vue d'ensemble de la pièce + Faire un croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension))
-
 * **Croquis**
   
 ![Croquis](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/dessin_notes.jpg)
 
 
-### [📷 Composantes et techniques]
-
-(Chacune des parties composantes de l'oeuvre (ce que l'artiste a fait - pensez à ce qui doit voyager dans une caisse de transport si ceci est exposé outremer))
-
-![Composantes et techniques](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/Baffe_01.png)
-
-![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/Baffe_02.png)
-
-### [📷 Éléments nécessaires à la mise en exposition]
-
-(Chacun des éléments que le musée a mis en place pour que l'oeuvre soit exposée (bancs, cache-fil, crochets, sacs de sable, câbles, éclairage, herses...))
-
-![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/Salle_complete.png)
-
-### [📷 Expérience vécue]
-
-(Posture du visiteur ou gestes de l'interacteur 🎥 possibilité d'intégrer de courts vidéos pour documenter l'interactivité avec celle-ci)
-
-![]()
 
 
-[^1]: Nom de l'exposition ou de l'événement 	
-[^1]Affiche de l'exposition
-[^1]Lieu de mise en exposition 	
-[^1]Vous devant l'entrée de l'édifice
-[^1]Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure) 	N/A
-[^1]Date de votre visite 	N/A
-[^1]Titre de l'oeuvre 	
-[^1]Vue d'ensemble de l'oeuvre ou du dispositif
-[^1]Nom de l'artiste 	
-[^1]Cartel
-[^1]Année de réalisation 	N/A
-[^1]Description de l'oeuvre 	
-[^1]Cartel + diverses vues
-[^1]Type d'installation (contemplative, immersive, interactive) 	
-[^1]Vue parlante
-[^1]Mise en espace 	Vue d'ensemble de la pièce + Faire un croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension)
-[^1]Composantes et techniques 	Chacune des parties composantes de l'oeuvre (ce que l'artiste a fait - pensez à ce qui doit voyager dans une caisse de transport si ceci est exposé outremer)
-[^1]Éléments nécessaires à la mise en exposition 	Chacun des éléments que le musée a mis en place pour que l'oeuvre soit exposée (bancs, cache-fil, crochets, sacs de sable, câbles, éclairage, herses...)
-[^1]Expérience vécue 	
-[^1]Posture du visiteur ou gestes de l'interacteur 🎥 possibilité d'intégrer de courts vidéos pour documenter l'interactivité avec celle-ci
-❤️ Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications 	Éléments pertinents
-🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications 	Éléments pertinents
+
