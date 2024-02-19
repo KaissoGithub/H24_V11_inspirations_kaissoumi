@@ -3,6 +3,10 @@ Le mercredi 31 janvier, dans le cadre de notre cours en œuvres et dispositifs m
 
 Une fois les explications terminées, nous sommes invités à rentrer au lieu de l'exposition, la salle est sombre, le sol est comme prévu ; recouvert d'un tapis, les bancs le sont également. Nous sommes face à plusieurs écrans qui diffusent chacun des clips de personnes s'adonnant à divers types de dances, toutes les vidéos sont pour le moment désynchronisées, mais un thème a pourtant l'air de les lier, les personnes sont toutes "en trance". Le temps avance et les clips ont l'air peu à peu de se synchroniser jusqu'à le devenir parfaitement. Quelques instants plus tard, les écrans commencent à clignoter de manière intense et le son s'unifie afin de produire une cacophonie, elle-même adaptée aux coupures des clips. Ce passage durera quelques minutes avant que les écrans se ferment complètement, une autre séance de clips s'en suit, ces derniers ont l'air d'être corrompus, l'exposition se termine avec un paysage qui ressemble à la voie lactée.
 
+Une séance de discussion s'en suivit, le présentateur ainsi que le groupe ont commencé à échanger quant à ce que nous venons de voir, nous apprenons que l'artiste tentait de faire un rapprochement avec certaines substances qui étaient consommées de manière récréative par lui et ces amis. Le tapis représentait le confort de la maison. La corruption représentait l'indescriptible qui suivait la consommation de drogues.
+
+## [Spécifications techniques]
+En ce qui concerne les spécificités techniques, des projecteurs étaient utilisés afin d'afficher sur des toiles les clips que nous avons visionnés, de grands haut-parleurs étaient cachés dans la pénombre aux deux coins de la pièce rectangulaire dans laquelle on se trouvait.
 
 
 ## [📷 Nom de l’exposition ou de l’événement]
