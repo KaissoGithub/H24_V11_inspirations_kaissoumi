@@ -18,15 +18,15 @@ Une séance de discussion s'en suivit, le présentateur ainsi que le groupe ont 
 **Les flashs lumineux vers la fin de l'exposition étaient une très mauvaise idée, car certaines personnes sont sensibles à ces détails et cela peut provoquer des effets indésirés chez cette catégorie d'individus.**
 
 ## [🔧 Spécifications techniques]
-En ce qui concerne les spécificités techniques, des projecteurs étaient utilisés afin d'afficher sur des toiles les clips que nous avons visionnés, de grands haut-parleurs étaient cachés dans la pénombre aux deux coins de la pièce rectangulaire dans laquelle on se trouvait.
+En ce qui concerne les spécificités techniques, des projecteurs et hauts parleurs étaient utilisés afin d'afficher sur des toiles les clips que nous avons visionnés ainsi que l'audio entendu, de grands "subwoofers" étaient cachés dans la pénombre aux deux coins de la pièce rectangulaire dans laquelle on se trouvait.
 
-* **Deux hauts parleurs**
+* **Deux subwoofers**
   
 ![Composantes et techniques](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/Baffe_01.png)
 
 ![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/Baffe_02.png)
 
-* **Un projecteur**
+* **Un projecteur et un projecteur**
 
 ![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/JEREMY_SHAW_phase_shifting_index/media/projecteur_01.png)
 
