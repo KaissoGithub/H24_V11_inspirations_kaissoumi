@@ -10,13 +10,12 @@ Le samedi 2 mars, j'ai été amené à visiter l'œuvre "Grotte de Glace" à Age
 ![pamhplet](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Age_of_union_grotte_de_glace/media/grotte_description.png)
 
 ## [❤️ Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications]
-L'ambiance de la grotte était particulièrement intéressante, c'était plutôt calme et relaxant puisque j'étais seul avec un ami dans l'oeuvre donc j'ai été en mesure de profiter d'une expérience plus personnelle et où l'immersion était de meilleure qualitée.
+L'ambiance de la grotte était particulièrement intéressante. C'était plutôt calme et relaxant, puisque j'étais seul avec un ami dans l'œuvre, j'ai pu profiter d'une expérience plus personnelle et d'une immersion de meilleure qualité.
 
-Un fait intéressant sur l'oeuvre est qu'elle a été produite en partie en réutilisant des déchets de plastiques qui se retrouvaient dans l'océan
-
+Un fait intéressant sur l'œuvre est qu'elle a été produite en partie en réutilisant des déchets de plastique qui se retrouvaient dans l'océan.
 
 ## [🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications]
-L'aération de la pièce laissait à désirer, et puisque les personnes qui visite l'installation devaient être en chausette, certaines odeurs étaients présentes.
+L'aération de la pièce laissait à désirer, et puisque les personnes qui visitaient l'installation devaient être en chaussettes, certaines odeurs étaient présentes.
 
 ## [🔧 Spécifications techniques]
 
