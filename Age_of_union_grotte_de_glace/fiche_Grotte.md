@@ -5,9 +5,7 @@
 
 ## [📃 Résumé de l'expérience]
 
-Le samedi 2 mars, j'ai été ammené à aller visiter l'oeuvre "Grotte de Glace" à Age Of Union réalisé par Kelly Nunes situé à 7049 Rue Saint-Urbain, Montréal, QC H2S 3H4. 
-L'installation se trouvait au deuxième étage de l'immeuble. Avant de rentrer, nous avons été invités à retirer nos chaussures.
-La pièce était climatisée et avait une température plutôt froide, le sol était glissant, la grotte était sombre , cependant, des capteurs de mouvements étaients installés et permettaient lors du passage d'une personne, de jouer des sons et de réguler la luminosité de la pièce. Les détecteurs de mouvements étaients installés sur un mur, et détectaient donc si la personne était levé ou assise. Lorsque nous étions debout, la lumière était plus vive, les sons ambiants étaients plus forts. Lorsque nous étions assis, la lumière était moins forte, les sons ambiants également.
+Le samedi 2 mars, j'ai été amené à visiter l'œuvre "Grotte de Glace" à Age Of Union réalisée par Kelly Nunes, située au 7049 Rue Saint-Urbain, Montréal, QC H2S 3H4. L'installation se trouvait au deuxième étage de l'immeuble. Avant d'entrer, nous avons été invités à retirer nos chaussures. La pièce était climatisée et avait une température plutôt froide, le sol était glissant, la grotte était sombre. Cependant, des capteurs de mouvements étaient installés et permettaient, lors du passage d'une personne, de jouer des sons et de réguler la luminosité de la pièce. Les détecteurs de mouvements étaient installés sur un mur et détectaient donc si la personne était debout ou assise. Lorsque nous étions debout, la lumière était plus vive et les sons ambiants étaient plus forts. Lorsque nous étions assis, la lumière était moins forte et les sons ambiants également.
 
 ![pamhplet](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Age_of_union_grotte_de_glace/media/grotte_description.png)
 
