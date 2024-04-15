@@ -1,3 +1,8 @@
+> [!warning]
+> La pièce visitée était extrêmement sombre et l'unique façon de prendre des photos était d'utiliser le flash. Les photos ne représentent donc pas l'authenticité de l'expérience vécue.
+> 
+
+
 ## [📃 Résumé de l'expérience]
 
 Le samedi 2 mars, j'ai été ammené à aller visiter l'oeuvre "Grotte de Glace" à Age Of Union réalisé par Kelly Nunes situé à 7049 Rue Saint-Urbain, Montréal, QC H2S 3H4. 
@@ -38,7 +43,7 @@ L'aération de la pièce laissait à désirer, et puisque les personnes qui visi
 Ici, on retrouve l'entrée de la grotte, la photo est prise de l'extérieur
 ![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Age_of_union_grotte_de_glace/media/grotte_entree3.png)
 
-Dans les deux photos suivantes, on retrouve des photos 
+Dans les deux photos suivantes, on retrouve les entrées de la grotte
 ![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Age_of_union_grotte_de_glace/media/grotte_entree.png)
 ![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Age_of_union_grotte_de_glace/media/grotte_entree2.png)
 
@@ -48,7 +53,7 @@ Dans les deux photos suivantes, on retrouve des photos
 
 ### [📷 Type d’installation (contemplative, immersive, interactive)]
   
-
+Le type d'installation était contemmplative, immersive et interactive, on pouvait intéragir avec cette dernière via
 
 ### [📷 Mise en espace]
 
@@ -74,6 +79,3 @@ L'équipe de production est la suivante :
 
 **Installation** : François Lalumière, Kate Ray Struthora, Elliot Elliot
 
-> [!warning]
-> La pièce visitée était extrêmement sombre et l'unique façon de prendre des photos était d'utiliser le flash. Les photos ne représentent donc pas l'authenticité de l'expérience vécue.
-> 
