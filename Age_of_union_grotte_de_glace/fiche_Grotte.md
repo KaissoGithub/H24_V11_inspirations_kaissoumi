@@ -50,7 +50,7 @@ Dans les deux photos suivantes, on retrouve les entrées de la grotte
 
 ### [📷 Type d’installation (contemplative, immersive, interactive)]
   
-Le type d'installation était contemmplative, immersive et interactive, on pouvait intéragir avec cette dernière via
+Le type d'installation était contemplatif, immersif et interactif. On pouvait interagir avec celle-ci via les différents capteurs installés. L'expérience était immersive car nous étions seuls dans la pièce, et le son était régulé en conséquence. Nous étions invités à contempler les variations de lumières.
 
 ### [📷 Mise en espace]
 
