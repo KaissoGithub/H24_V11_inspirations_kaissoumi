@@ -51,6 +51,8 @@ Selon les créateurs du projet, kigo est un jeu où chaque niveau représente un
 Rhizomatique est une oeuvre plutôt spéciale et unique en son genre, elle représente l'interaction que l'utilisateur peut avoir avec ses souvenirs. La personne qui souhaite interagir avec le projet doit passer devant un présentoir où une toile en tissu et une projection l'attendront, lorsque ce dernier touchera certaines zones de la toile, elles s'illumineront et la projection sombre à l'écran s'éclaircira. Elle présentera à l'usager des souvenirs enfouis dans la mémoire d'une personne supposément inconnue. Plus la pression et les mouvements sur la toile sont grands, plus le nombre de souvenirs affichés à l'écran ainsi que le niveau de clarté augmenteront.
 
 ### Intention du projet
+Selon les étudiants du projet, Rhizomatique est une oeuvre interactive qui met l'emphase sur le concept du temps dans la vie de l'homme, les différentes actions qu'il entreprend dans sa vie sont des pages du livre de sa vie, malheureusement, elles sont en grande majorité oubliée, c'est là où Rhizomatique entre en jeu, en interagissant avec la toile, nous pouvons nous remémorer nos souvenirs, évidemment, une technologie pareille n'existe pas pour l'instant, c'est pourquoi nous aurons à la place, accès aux souvenirs d'une autre personne, c'est une métaphore qui nous laisse facilement deviner l'intérêt et l'intention du projet.
+
 
 ### Réalisé par :  
 * **Jolyanne Desjardins**
