@@ -15,7 +15,6 @@ Le jeu a été développé sous unity, certaines connaissances en programmations
 Selon les créateurs du projet, kigo est un jeu où chaque niveau représente une saison, il y a donc 4 niveaux de difficultés qui incrémente selon les performances du joueur. Ils voulaient également prouver aux professeurs et aux joueurs l'étendue des connaissances qu'ils ont acquises durant leur technique.
 
 ### L'installation 
-
 Elle est plutôt simple, cette dernière comprend les éléments suivants :
 * **Un ordinateur portable** <br> il possède le programme du jeu et de ceux qui sont utilisés pour développer ce dernier.
 * **Une kinect pour xbox one** <br> elle permet de détecter les mouvements du joueur, les informations sont par la suite envoyées à l'ordinateur qui traite les actions du joueur via le programme du jeu.
@@ -35,6 +34,10 @@ Elle est plutôt simple, cette dernière comprend les éléments suivants :
 ![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/kigo_scene.png)
 *Nous retrouvons ici une image de l'installation sans joueur actif, la zone est délimitée avec du ruban adhésif fluorescent*
 
+### Cours prérequis à l'élaboration d'un projet similaire
+* **Modélisation 3D** <br> Le projet utilise des modèles 3D, il est donc évident qu'afin d'en avoir, il faut les produires.
+* **Animation 3D** <br> Certaines animations ont été utilisées dans le cadre du projet.
+* **Oeuvres et dispositifs multimédias en exposition** <br> Afin de mieux comprendre comment les oeuvres sont produites et afin de pouvoir se lancer dans un projet, il faut un certain nombre de connaissances. Je pense que le cours est primordial, pas qu'à ce projet, mais absolument tous les autres, se lancer dans l'élaboration d'une oeuvre sans ce cours, c'est commencer sans des notions de base.
 
 ### Réalisé par : 
 * **Erick Ouelette**
