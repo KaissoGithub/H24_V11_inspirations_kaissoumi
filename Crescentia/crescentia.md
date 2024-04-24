@@ -6,8 +6,6 @@ Crescentia est un regroupement de projets étudiants en fin de session, il repr�
 
 ## Kigo
 
-
-
 Kigo est de loin mon oeuvre favorite, installée au grand studio, nous jouons à ce jeu en étant physiquement debout devant un capteur de mouvement (kinect) et sur un tapis avec un espace dégagé, un projecteur affiche l'écran de jeu sur un mur. Les règles de Kigo sont simples, nous sommes dans un monde aux allures futuristes où l'on doit esquiver des obstacles et collecter des points en se dirigeant sur les éléments qui représentent des bonus. Le jeu est très physique, il faudra se déplacer de gauche à droite et parfois s'accroupir afin d'éviter les obstacles qui se présenteront. Suite à quelques sessions, on se retrouve rapidement essoufflé et c'est selon moi une bonne chose, car rares sont les jeux ludiques où il faut impérativement faire de l'effort physique pour avoir un bon sport. Pour l'anecdote, après quelques parties, je me suis retrouvé le lendemain avec des courbatures.
 <br>
 
@@ -16,8 +14,9 @@ Le jeu a été développé sous unity, certaines connaissances en programmations
 ### Intention du projet
 Selon les créateurs du projet, kigo est un jeu où chaque niveau représente une saison, il y a donc 4 niveaux de difficultés qui incrémente selon les performances du joueur. Ils voulaient également prouver aux professeurs et aux joueurs l'étendue des connaissances qu'ils ont acquises durant leur technique.
 
-L'installation est plutôt simple, cette dernière comprend les éléments suivants :
+### L'installation 
 
+Elle est plutôt simple, cette dernière comprend les éléments suivants :
 * **Un ordinateur portable** <br> il possède le programme du jeu et de ceux qui sont utilisés pour développer ce dernier.
 * **Une kinect pour xbox one** <br> elle permet de détecter les mouvements du joueur, les informations sont par la suite envoyées à l'ordinateur qui traite les actions du joueur via le programme du jeu.
 * **Un projecteur** <br> il projette sur le mur une copie de l'écran d'ordinateur, évidemment, ce dernier est sur le jeu.
@@ -53,7 +52,9 @@ Rhizomatique est une oeuvre plutôt spéciale et unique en son genre, elle repr�
 ### Intention du projet
 Selon les étudiants du projet, Rhizomatique est une oeuvre interactive qui met l'emphase sur le concept du temps dans la vie de l'homme, les différentes actions qu'il entreprend dans sa vie sont des pages du livre de sa vie, malheureusement, elles sont en grande majorité oubliée, c'est là où Rhizomatique entre en jeu, en interagissant avec la toile, nous pouvons nous remémorer nos souvenirs, évidemment, une technologie pareille n'existe pas pour l'instant, c'est pourquoi nous aurons à la place, accès aux souvenirs d'une autre personne, c'est une métaphore qui nous laisse facilement deviner l'intérêt et l'intention du projet.
 
-L'installation comprend essentiellement : <br>
+### L'installation 
+
+Elle comprend essentiellement : <br>
 * **Un ordinateur portable**<br> il possède le programme du projet et de ceux qui sont utilisés pour développer ce dernier.
 * **Trois projecteurs**<br> ils projettent sur le mur différentes vidéos selon les choix de l'usager.
 * **Deux haut-parleurs**<br> ils émettent les sons du projet.
