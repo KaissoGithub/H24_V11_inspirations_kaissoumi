@@ -6,6 +6,8 @@ Crescentia est un regroupement de projets étudiants en fin de session, il repr�
 
 ## Kigo
 
+
+
 Kigo est de loin mon oeuvre favorite, installée au grand studio, nous jouons à ce jeu en étant physiquement debout devant un capteur de mouvement (kinect) et sur un tapis avec un espace dégagé, un projecteur affiche l'écran de jeu sur un mur. Les règles de Kigo sont simples, nous sommes dans un monde aux allures futuristes où l'on doit esquiver des obstacles et collecter des points en se dirigeant sur les éléments qui représentent des bonus. Le jeu est très physique, il faudra se déplacer de gauche à droite et parfois s'accroupir afin d'éviter les obstacles qui se présenteront. Suite à quelques sessions, on se retrouve rapidement essoufflé et c'est selon moi une bonne chose, car rares sont les jeux ludiques où il faut impérativement faire de l'effort physique pour avoir un bon sport. Pour l'anecdote, après quelques parties, je me suis retrouvé le lendemain avec des courbatures.
 <br>
 
@@ -32,7 +34,7 @@ L'installation est plutôt simple, cette dernière comprend les éléments suiva
 *Nous retrouvons ici une image de l'installation sans joueur actif, la zone est délimitée avec du ruban adhésif fluorescent*
 
 
-## Intention du projet
+### Intention du projet
 Selon les créateurs du projet, kigo est un jeu où chaque niveau représente une saison, il y a donc 4 niveaux de difficultés qui incrémente selon les performances du joueur. Ils voulaient également prouver aux professeurs et aux joueurs l'étendue des connaissances qu'ils ont acquises durant leur technique.
 
 ### Réalisé par : 
@@ -45,6 +47,10 @@ Selon les créateurs du projet, kigo est un jeu où chaque niveau représente un
 
 ## Rhizomatique
 
+
+Rhizomatique est une oeuvre plutôt spéciale et unique en son genre, elle représente l'interaction que l'utilisateur peut avoir avec ses souvenirs. La personne qui souhaite interagir avec le projet doit passer devant un présentoir où une toile en tissu et une projection l'attendront, lorsque ce dernier touchera certaines zones de la toile, elles s'illumineront et la projection sombre à l'écran s'éclaircira. Elle présentera à l'usager des souvenirs enfouis dans la mémoire d'une personne supposément inconnue. Plus la pression et les mouvements sur la toile sont grands, plus le nombre de souvenirs affichés à l'écran ainsi que le niveau de clarté augmenteront.
+
+### Intention du projet
 
 ### Réalisé par :  
 * **Jolyanne Desjardins**
