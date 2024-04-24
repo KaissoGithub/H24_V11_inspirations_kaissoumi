@@ -54,9 +54,11 @@ Le type d'installation était contemplatif, immersif et interactif. On pouvait i
 
 ### [📷 Mise en espace]
 
-* **Croquis**
-  
+ **Croquis**
+Voici un croquis de la grotte
+
 ![Croquis](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Age_of_union_grotte_de_glace/media/croquis_grotte.png)
+
 
 
 L'équipe de production est la suivante :  
