@@ -4,3 +4,7 @@ Lors de ce processus, la documentation est primordiale, car elle permet de prot�
 Elle nous a également précisé que dans les dispositifs d'œuvres, il y a plusieurs phases qui se divisent en sous-branches, nous avons l'interactivité passive, par exemple, regarder, marcher, respirer fait partie de cette phase. Par la suite, nous avons l'interactivité active, parler, swiper, toucher font partie de cette phase. La conclusion logique de ces interactions est que l'œuvre finale devient "vivante"
 
 Malheureusement, des enjeux viennent s'ajouter aux œuvres lorsqu'elles sont exposées dans des lieux propices aux problèmes, par exemple, la corrosion, la pluie, l'électricité, le sable, la faune est des éléments perturbateurs qui peuvent potentiellement endommager l'équipement, l'œuvre et nuire au travail de l'équipe. 
+
+
+Ici nous retrouvons une image exposé au "Museo de Arte Contemporáneo de Monterrey" , Monterrey, México, 2019  
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/conference/media/splash_sphere_packing_bach.jpg)
