@@ -36,7 +36,7 @@ Elle est plutôt simple, cette dernière comprend les éléments suivants :
 
 ### Cours prérequis à l'élaboration d'un projet similaire
 * **Modélisation 3D** <br> Le projet utilise des modèles 3D, il est donc évident qu'afin d'en avoir, il faut les produires.
-* **Animation 3D** <br> Certaines animations ont été utilisées dans le cadre du projet.
+* **Animation 3D** <br> Certaines animations ont été utilisées dans le cadre du projet, notamment au niveau d'une hélice qui tournait et qui représentait un obstacle.
 * **Oeuvres et dispositifs multimédias en exposition** <br> Afin de mieux comprendre comment les oeuvres sont produites et afin de pouvoir se lancer dans un projet, il faut un certain nombre de connaissances. Je pense que le cours est primordial, pas qu'à ce projet, mais absolument tous les autres, se lancer dans l'élaboration d'une oeuvre sans ce cours, c'est commencer sans des notions de base.
 
 ### Réalisé par : 
