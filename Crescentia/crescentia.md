@@ -13,6 +13,9 @@ Kigo est de loin mon oeuvre favorite, installée au grand studio, nous jouons à
 
 Le jeu a été développé sous unity, certaines connaissances en programmations ont donc été requises afin d'élaborer ce projet, l'utilisation de kinect studio était obligatoire afin d'avoir un intermédiaire entre le jeu et la kinect. Afin de modéliser et d'animer les modèles 3D du projet, Blender ou Maya a été utilisé. Pour la partie sonore, c'est grâce à Reaper que l'équipe de Kigo ont été en mesure de s'organiser.
 
+### Intention du projet
+Selon les créateurs du projet, kigo est un jeu où chaque niveau représente une saison, il y a donc 4 niveaux de difficultés qui incrémente selon les performances du joueur. Ils voulaient également prouver aux professeurs et aux joueurs l'étendue des connaissances qu'ils ont acquises durant leur technique.
+
 L'installation est plutôt simple, cette dernière comprend les éléments suivants :
 
 * **Un ordinateur portable** <br> il possède le programme du jeu et de ceux qui sont utilisés pour développer ce dernier.
@@ -34,9 +37,6 @@ L'installation est plutôt simple, cette dernière comprend les éléments suiva
 *Nous retrouvons ici une image de l'installation sans joueur actif, la zone est délimitée avec du ruban adhésif fluorescent*
 
 
-### Intention du projet
-Selon les créateurs du projet, kigo est un jeu où chaque niveau représente une saison, il y a donc 4 niveaux de difficultés qui incrémente selon les performances du joueur. Ils voulaient également prouver aux professeurs et aux joueurs l'étendue des connaissances qu'ils ont acquises durant leur technique.
-
 ### Réalisé par : 
 * **Erick Ouelette**
 * **William Rathier Maily**
@@ -50,6 +50,9 @@ Selon les créateurs du projet, kigo est un jeu où chaque niveau représente un
 
 Rhizomatique est une oeuvre plutôt spéciale et unique en son genre, elle représente l'interaction que l'utilisateur peut avoir avec ses souvenirs. La personne qui souhaite interagir avec le projet doit passer devant un présentoir où une toile en tissu et une projection l'attendront, lorsque ce dernier touchera certaines zones de la toile, elles s'illumineront et la projection sombre à l'écran s'éclaircira. Elle présentera à l'usager des souvenirs enfouis dans la mémoire d'une personne supposément inconnue. Plus la pression et les mouvements sur la toile sont grands, plus le nombre de souvenirs affichés à l'écran ainsi que le niveau de clarté augmenteront.
 
+### Intention du projet
+Selon les étudiants du projet, Rhizomatique est une oeuvre interactive qui met l'emphase sur le concept du temps dans la vie de l'homme, les différentes actions qu'il entreprend dans sa vie sont des pages du livre de sa vie, malheureusement, elles sont en grande majorité oubliée, c'est là où Rhizomatique entre en jeu, en interagissant avec la toile, nous pouvons nous remémorer nos souvenirs, évidemment, une technologie pareille n'existe pas pour l'instant, c'est pourquoi nous aurons à la place, accès aux souvenirs d'une autre personne, c'est une métaphore qui nous laisse facilement deviner l'intérêt et l'intention du projet.
+
 L'installation comprend essentiellement : <br>
 * **Un ordinateur portable**<br> il possède le programme du projet et de ceux qui sont utilisés pour développer ce dernier.
 * **Trois projecteurs**<br> ils projettent sur le mur différentes vidéos selon les choix de l'usager.
@@ -58,9 +61,14 @@ L'installation comprend essentiellement : <br>
 * **Une toile**<br> permet à l'utilisateur d'intéragir avec le projet.
 * **Un podium**<br> utilisé afin de placer la toile.
 
-### Intention du projet
-Selon les étudiants du projet, Rhizomatique est une oeuvre interactive qui met l'emphase sur le concept du temps dans la vie de l'homme, les différentes actions qu'il entreprend dans sa vie sont des pages du livre de sa vie, malheureusement, elles sont en grande majorité oubliée, c'est là où Rhizomatique entre en jeu, en interagissant avec la toile, nous pouvons nous remémorer nos souvenirs, évidemment, une technologie pareille n'existe pas pour l'instant, c'est pourquoi nous aurons à la place, accès aux souvenirs d'une autre personne, c'est une métaphore qui nous laisse facilement deviner l'intérêt et l'intention du projet.
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/rhizomatique_toile.png)
+*Toile utilisée par un usager*
 
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/rhizomatique_projecteur.png)
+*Projecteur ainsi qu'une kinect*
+
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/rhizomathique_croquis.png)
+*Croquis officiel récupéré sur la page github du projet, ce dernier représente l'installation*
 
 ### Réalisé par :  
 * **Jolyanne Desjardins**
