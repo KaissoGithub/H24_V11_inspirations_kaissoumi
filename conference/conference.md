@@ -10,3 +10,8 @@ Malheureusement, des enjeux viennent s'ajouter aux œuvres lorsqu'elles sont exp
 
 Ici nous retrouvons une image exposé au "Museo de Arte Contemporáneo de Monterrey" , Monterrey, México, 2019  
 ![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/conference/media/splash_sphere_packing_bach.jpg)
+
+
+
+Un point que j'ai apprécié : Les anecdotes sur les histoires qui lui sont arrivés en bien ou en mal en lien avec l'exécution de son travail était captivantes
+Un point que je n'ai pas apprécié : l'usage excessif d'anglicismes m'a sincèrement rebuté
