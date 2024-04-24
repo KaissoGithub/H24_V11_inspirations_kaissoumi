@@ -33,7 +33,7 @@ L'installation est plutôt simple, cette dernière comprend les éléments suiva
 
 
 ## Intention du projet
-Selon les créateurs du projet, kigo est un jeu où chaque niveau représente une saison, il y a donc 4 niveaux de difficultés qui incrémente selon les performances du joueur.
+Selon les créateurs du projet, kigo est un jeu où chaque niveau représente une saison, il y a donc 4 niveaux de difficultés qui incrémente selon les performances du joueur. Ils voulaient également prouver aux professeurs et aux joueurs l'étendue des connaissances qu'ils ont acquises durant leur technique.
 
 ### Réalisé par : 
 * **Erick Ouelette**
