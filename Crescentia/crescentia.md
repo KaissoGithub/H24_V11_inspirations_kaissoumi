@@ -39,7 +39,7 @@ Elle est plutôt simple, cette dernière comprend les éléments suivants :
 * **Animation 3D** <br> Certaines animations ont été utilisées dans le cadre du projet, notamment au niveau d'une hélice qui tournait et qui représentait un obstacle.
 * **Oeuvres et dispositifs multimédias en exposition** <br> Afin de mieux comprendre comment les oeuvres sont produites et afin de pouvoir se lancer dans un projet, il faut un certain nombre de connaissances. Je pense que le cours est primordial, pas qu'à ce projet, mais absolument tous les autres, se lancer dans l'élaboration d'une oeuvre sans ce cours, c'est commencer sans des notions de base.
 
-### Réalisé par : 
+### Projet réalisé par : 
 * **Erick Ouelette**
 * **William Rathier Maily**
 * **Gabriel Clerval**
@@ -74,7 +74,7 @@ Elle comprend essentiellement : <br>
 ![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/rhizomathique_croquis.png)
 *Croquis officiel récupéré sur la page github du projet, ce dernier représente l'installation*
 
-### Réalisé par :  
+### Projet réalisé par : 
 * **Jolyanne Desjardins**
 * **Maika Désy**
 * **Laurie Houde**
@@ -82,7 +82,7 @@ Elle comprend essentiellement : <br>
 
 ## Effet-Papillon
 
-### Réalisé par : 
+### Projet réalisé par : 
 * **Raphaël Dumont**
 * **Alexis Bolduc**
 * **William Morel**
@@ -93,7 +93,7 @@ Elle comprend essentiellement : <br>
 
 ## Sonalux
 
-### Réalisé par : 
+### Projet réalisé par : 
 * **Antoine Haddad**
 * **Camélie Laprise**
 * **Ghita Alaoui**
@@ -101,7 +101,7 @@ Elle comprend essentiellement : <br>
 
 ## Canevas Cosmique
 
-### Réalisé par :  
+### Projet réalisé par : 
 * **Jacob Alarie-Brousseau**
 * **Étienne Charron**
 * **Jérémy**
