@@ -52,11 +52,11 @@ Rhizomatique est une oeuvre plutôt spéciale et unique en son genre, elle repr�
 
 L'installation comprend essentiellement : <br>
 * **Un ordinateur portable**<br> il possède le programme du projet et de ceux qui sont utilisés pour développer ce dernier.
-* **Trois projecteurs**<br> : ils projettent sur le mur différentes vidéos selon les choix de l'usager.
-* **Deux haut-parleurs**<br> ; ils émettent les sons du projet.
-* **Une kinect**<br> : placée en dessous de la toile, elle détecte les mouvements des mains de l'usager.
-* **Une toile**<br> : permet à l'utilisateur d'intéragir avec le projet.
-* **Un podium**<br> : utilisé afin de placer la toile.
+* **Trois projecteurs**<br> ils projettent sur le mur différentes vidéos selon les choix de l'usager.
+* **Deux haut-parleurs**<br> ils émettent les sons du projet.
+* **Une kinect**<br> placée en dessous de la toile, elle détecte les mouvements des mains de l'usager.
+* **Une toile**<br> permet à l'utilisateur d'intéragir avec le projet.
+* **Un podium**<br> utilisé afin de placer la toile.
 
 ### Intention du projet
 Selon les étudiants du projet, Rhizomatique est une oeuvre interactive qui met l'emphase sur le concept du temps dans la vie de l'homme, les différentes actions qu'il entreprend dans sa vie sont des pages du livre de sa vie, malheureusement, elles sont en grande majorité oubliée, c'est là où Rhizomatique entre en jeu, en interagissant avec la toile, nous pouvons nous remémorer nos souvenirs, évidemment, une technologie pareille n'existe pas pour l'instant, c'est pourquoi nous aurons à la place, accès aux souvenirs d'une autre personne, c'est une métaphore qui nous laisse facilement deviner l'intérêt et l'intention du projet.
