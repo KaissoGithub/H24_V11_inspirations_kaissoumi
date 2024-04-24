@@ -6,17 +6,10 @@ Crescentia est un regroupement de projets étudiants en fin de session, il repr�
 
 ## Kigo
 
-Kigo est de loin mon oeuvre favorite, installée au grand studio, nous jouons à ce jeu en étant physiquement debout devant un capteur de mouvement (kinect) et sur un tapis avec un espace dégagé, un projecteur affiche l'écran de jeu sur un mur. Les règles de Kigo sont simples, nous sommes dans un monde aux allures futuristes où l'on doit esquiver des obstacles et collecter des points en se dirigeant sur les éléments qui représentent des bonus. Le jeu est très physique, il faudra se déplacer de gauche à droite et parfois s'accroupir afin d'éviter les obstacles qui se présenteront. Suite à quelques sessions, on se retrouve rapidement essoufflé et c'est selon moi une bonne chose, car rares sont les jeux ludiques où il faut impérativement faire de l'effort physique pour avoir un bon sport. Pour l'anecdote, après quelques parties, je me suis retrouvé le lendemain avec des courbatures. 
-
-
-![](https://tim-montmorency.com/2024/projets/Kigo/docs/preproduction/medias/plantation_technique.png)
-*Croquis officiel provenant de la page du projet, elle représente l'installation du jeu*
+Kigo est de loin mon oeuvre favorite, installée au grand studio, nous jouons à ce jeu en étant physiquement debout devant un capteur de mouvement (kinect) et sur un tapis avec un espace dégagé, un projecteur affiche l'écran de jeu sur un mur. Les règles de Kigo sont simples, nous sommes dans un monde aux allures futuristes où l'on doit esquiver des obstacles et collecter des points en se dirigeant sur les éléments qui représentent des bonus. Le jeu est très physique, il faudra se déplacer de gauche à droite et parfois s'accroupir afin d'éviter les obstacles qui se présenteront. Suite à quelques sessions, on se retrouve rapidement essoufflé et c'est selon moi une bonne chose, car rares sont les jeux ludiques où il faut impérativement faire de l'effort physique pour avoir un bon sport. Pour l'anecdote, après quelques parties, je me suis retrouvé le lendemain avec des courbatures.
+<br>
 
 Le jeu a été développé sous unity, certaines connaissances en programmations ont donc été requises afin d'élaborer ce projet, l'utilisation de kinect studio était obligatoire afin d'avoir un intermédiaire entre le jeu et la kinect. Afin de modéliser et d'animer les modèles 3D du projet, Blender ou Maya a été utilisé. Pour la partie sonore, c'est grâce à Reaper que l'équipe de Kigo ont été en mesure de s'organiser.
-
-![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/kigo_scene.png)
-
-*Nous retrouvons ici une image de l'installation sans joueur actif, la zone est délimitée avec du ruban adhésif fluorescent*
 
 L'installation est plutôt simple, cette dernière comprend les éléments suivants :
 
@@ -24,13 +17,19 @@ L'installation est plutôt simple, cette dernière comprend les éléments suiva
 * **Une kinect pour xbox one** <br> elle permet de détecter les mouvements du joueur, les informations sont par la suite envoyées à l'ordinateur qui traite les actions du joueur via le programme du jeu.
 * **Un projecteur** <br> il projette sur le mur une copie de l'écran d'ordinateur, évidemment, ce dernier est sur le jeu.
 * **Deux haut-parleurs** <br> ils émettent les sons du jeu.
+* **Une console de son** <br> permet de gérer les différents sons que l'ordinateur envoie aux haut-parleurs
 
+![](https://tim-montmorency.com/2024/projets/Kigo/docs/preproduction/medias/plantation_technique.png)
+*Croquis officiel provenant de la page du projet, elle représente l'installation du jeu*
 
 ![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/kigo_projecteurs_baffes.png) <br>
 *Les haut-parleurs ainsi que le projecteur utilisé dans le cadre du projet*
 
 ![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/kigo_kinect.png) <br>
 *Kinect utilisée dans le cadre du projet*
+
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/kigo_scene.png)
+*Nous retrouvons ici une image de l'installation sans joueur actif, la zone est délimitée avec du ruban adhésif fluorescent*
 
 
 ## Intention du projet
