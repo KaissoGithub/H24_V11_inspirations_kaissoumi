@@ -1,10 +1,10 @@
-# Crescentia
+# Crescentia _______________________________________________________
 
 ![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/crescentia_banniere.png)
 
 Crescentia est un regroupement de projets étudiants en fin de session, il représente l'aboutissement des connaissances que ces derniers ont acquis au fil de leurs parcours académiques, nous retrouvons principalement des oeuvres interactives et ces dernières sont exposées au grand et petit studio.
 
-## Kigo
+## Kigo _______________________________________________________
 
 Kigo est de loin mon oeuvre favorite, installée au grand studio, nous jouons à ce jeu en étant physiquement debout devant un capteur de mouvement (kinect) et sur un tapis avec un espace dégagé, un projecteur affiche l'écran de jeu sur un mur. Les règles de Kigo sont simples, nous sommes dans un monde aux allures futuristes où l'on doit esquiver des obstacles et collecter des points en se dirigeant sur les éléments qui représentent des bonus. Le jeu est très physique, il faudra se déplacer de gauche à droite et parfois s'accroupir afin d'éviter les obstacles qui se présenteront. Suite à quelques sessions, on se retrouve rapidement essoufflé et c'est selon moi une bonne chose, car rares sont les jeux ludiques où il faut impérativement faire de l'effort physique pour avoir un bon sport. Pour l'anecdote, après quelques parties, je me suis retrouvé le lendemain avec des courbatures.
 <br>
@@ -39,10 +39,9 @@ Elle est plutôt simple, cette dernière comprend les éléments suivants :
 * **Animation 3D** <br> Certaines animations ont été utilisées dans le cadre du projet, notamment au niveau d'une hélice qui tournait et qui représentait un obstacle.
 * **Oeuvres et dispositifs multimédias en exposition** <br> Afin de mieux comprendre comment les oeuvres sont produites et afin de pouvoir se lancer dans un projet, il faut un certain nombre de connaissances. Je pense que le cours est primordial, pas qu'à ce projet, mais absolument tous les autres, se lancer dans l'élaboration d'une oeuvre sans ce cours, c'est commencer sans des notions de base.
 
-####################################- présenter une technique* ou une composante technologique* qui sera utilisée dans l'un des projets et que vous ne connaissiez pas
-  
-    *pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
-- ordonner les projets selon votre préférence actuelle (1 = votre projet préféré), avec justification (avant/après l'expérimentation) ##############################
+> [!NOTE]  
+> Le cours d'oeuvres est présente dans toutes les fiches, car selon moi il est primordial à l'élaboration d'un projet, quel qu'il soit.
+
 
 ### Projet réalisé par : 
 * **Erick Ouelette**
@@ -52,8 +51,7 @@ Elle est plutôt simple, cette dernière comprend les éléments suivants :
 * **Antoine Dion**
 
 
-## Rhizomatique
-
+## Rhizomatique _______________________________________________________
 
 Rhizomatique est une oeuvre plutôt spéciale et unique en son genre, elle représente l'interaction que l'utilisateur peut avoir avec ses souvenirs. La personne qui souhaite interagir avec le projet doit passer devant un présentoir où une toile en tissu et une projection l'attendront, lorsque ce dernier touchera certaines zones de la toile, elles s'illumineront et la projection sombre à l'écran s'éclaircira. Elle présentera à l'usager des souvenirs enfouis dans la mémoire d'une personne supposément inconnue. Plus la pression et les mouvements sur la toile sont grands, plus le nombre de souvenirs affichés à l'écran ainsi que le niveau de clarté augmenteront.
 
@@ -79,13 +77,23 @@ Elle comprend essentiellement : <br>
 ![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/rhizomathique_croquis.png)
 *Croquis officiel récupéré sur la page github du projet, ce dernier représente l'installation*
 
+### Cours prérequis à l'élaboration d'un projet similaire
+* **Vidéo 1-2** <br> Le projet utilise de nombreuses vidéos et certains effets sont appliqués sur ces derniers, les étudiants ont utilisé davinci resolve, il est donc évident que les cours de vidéos sont utiles à l'élaboration du projet.
+* **Audio 1-2** <br> L'utilisation de RACK 2, un utilitaire de visualisation et de contrôle sonore a été utilisé, sans cours au préalable pour comprendre le fonctionnement des interfaces semblables, il est impossible de réaliser ce projet.
+* **Oeuvres et dispositifs multimédias en exposition** <br> Afin de mieux comprendre comment les oeuvres sont produites et afin de pouvoir se lancer dans un projet, il faut un certain nombre de connaissances. Je pense que le cours est primordial, pas qu'à ce projet, mais absolument tous les autres, se lancer dans l'élaboration d'une oeuvre sans ce cours, c'est commencer sans des notions de base.
+
 ### Projet réalisé par : 
 * **Jolyanne Desjardins**
 * **Maika Désy**
 * **Laurie Houde**
 * **Felix Testa Radovanovic**
 
-## Effet-Papillon
+## Effet-Papillon _______________________________________________________
+
+### Cours prérequis à l'élaboration d'un projet similaire
+* **Audio 1-2** l'usage de sons est omniprésents dans le projet, les notions suivantes ont été utilisé : Coordinateur son, création des paysages sonores, intégration de sons dans l'espace physique. <br>
+* **Modélisation 3D** une scène 3d ainsi qu'un modèle de cerf en 3d ont été modélisé afin de répondre à la demande du projet<br>
+* **Oeuvres et dispositifs multimédias en exposition** <br> Afin de mieux comprendre comment les oeuvres sont produites et afin de pouvoir se lancer dans un projet, il faut un certain nombre de connaissances. Je pense que le cours est primordial, pas qu'à ce projet, mais absolument tous les autres, se lancer dans l'élaboration d'une oeuvre sans ce cours, c'est commencer sans des notions de base.
 
 ### Projet réalisé par : 
 * **Raphaël Dumont**
@@ -96,15 +104,22 @@ Elle comprend essentiellement : <br>
 * **Jasmine Lapierre**
 
 
-## Sonalux
+## Sonalux _______________________________________________________
 
+
+### Cours prérequis à l'élaboration d'un projet similaire
+* **x** <br>
+  
 ### Projet réalisé par : 
 * **Antoine Haddad**
 * **Camélie Laprise**
 * **Ghita Alaoui**
 * **Vincent Desjardin**
 
-## Canevas Cosmique
+## Canevas Cosmique _______________________________________________________
+
+### Cours prérequis à l'élaboration d'un projet similaire
+* **x** <br>
 
 ### Projet réalisé par : 
 * **Jacob Alarie-Brousseau**
