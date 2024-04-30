@@ -108,8 +108,10 @@ Elle comprend essentiellement : <br>
 
 
 ### Cours prérequis à l'élaboration d'un projet similaire
-* **x** <br>
-  
+* **Audio 1-2** Sonalux est une expérience basé exclusivement sur les sons, le contrôle des fréquences ainsi que le changement des effets sonores requiert évidemment des connaissances en audio<br>
+* **Video 1-2** Les images projetés à l'écran sont en réalité des vidéos qui ont certains filtres d'activés en fonction de se que l'usager entreprend comme action. <br>
+* **Oeuvres et dispositifs multimédias en exposition** <br> Afin de mieux comprendre comment les oeuvres sont produites et afin de pouvoir se lancer dans un projet, il faut un certain nombre de connaissances. Je pense que le cours est primordial, pas qu'à ce projet, mais absolument tous les autres, se lancer dans l'élaboration d'une oeuvre sans ce cours, c'est commencer sans des notions de base. <br>
+    
 ### Projet réalisé par : 
 * **Antoine Haddad**
 * **Camélie Laprise**
@@ -119,7 +121,9 @@ Elle comprend essentiellement : <br>
 ## Canevas Cosmique _______________________________________________________
 
 ### Cours prérequis à l'élaboration d'un projet similaire
-* **x** <br>
+* **Modélisation 3D** Le projet affiche des planètes entièrement modélisés en 3D. <br>
+* **Animation 3D** Les modèles du projet ne sont pas statiques, elles ont donc été animées en 3D et ce n'est possible que via ce cours. <br>
+* **Oeuvres et dispositifs multimédias en exposition** <br> Afin de mieux comprendre comment les oeuvres sont produites et afin de pouvoir se lancer dans un projet, il faut un certain nombre de connaissances. Je pense que le cours est primordial, pas qu'à ce projet, mais absolument tous les autres, se lancer dans l'élaboration d'une oeuvre sans ce cours, c'est commencer sans des notions de base. <br>
 
 ### Projet réalisé par : 
 * **Jacob Alarie-Brousseau**
