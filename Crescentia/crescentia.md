@@ -107,6 +107,12 @@ Elle comprend essentiellement : <br>
 ## Sonalux _______________________________________________________
 
 
+### Intention du projet
+
+
+### L'installation 
+
+
 ### Cours prérequis à l'élaboration d'un projet similaire
 * **Audio 1-2** Sonalux est une expérience basé exclusivement sur les sons, le contrôle des fréquences ainsi que le changement des effets sonores requiert évidemment des connaissances en audio<br>
 * **Video 1-2** Les images projetés à l'écran sont en réalité des vidéos qui ont certains filtres d'activés en fonction de se que l'usager entreprend comme action. <br>
@@ -119,6 +125,11 @@ Elle comprend essentiellement : <br>
 * **Vincent Desjardin**
 
 ## Canevas Cosmique _______________________________________________________
+
+### Intention du projet
+
+
+### L'installation 
 
 ### Cours prérequis à l'élaboration d'un projet similaire
 * **Modélisation 3D** Le projet affiche des planètes entièrement modélisés en 3D. <br>
