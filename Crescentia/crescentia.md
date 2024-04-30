@@ -140,8 +140,6 @@ En détail, voici les éléments utilisés :
 - Ordinateurs
     - 1 ordinateur portable
 
-- Autres
-
 
 ### Cours prérequis à l'élaboration d'un projet similaire
 * **Vidéo 1-2** <br> Le projet utilise de nombreuses vidéos et certains effets sont appliqués sur ces derniers, les étudiants ont utilisé davinci resolve, il est donc évident que les cours de vidéos sont utiles à l'élaboration du projet.
