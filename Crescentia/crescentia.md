@@ -159,14 +159,37 @@ L'Effet Papillon est une installation interactive où l'utilisateur peut effectu
 Le projet vise à sensibiliser l'utilisateur aux conséquences de ses actions, qui se manifestent visuellement ou sensoriellement sur la "cyber-pomme" du projet. À la fin de l'expérience, l'utilisateur est encouragé à la revivre. La finalité du projet se concrétise en une boucle où la graine de la pomme se transforme en arbre, produit un fruit, mûrit, meurt, puis reproduit une autre graine pour recommencer le cycle.
 
 ### L'installation 
-L'installation de l'effet papillon est sans aucun doute l'insallation la plus complexe de crescentia,
+L'installation de l'effet papillon est sans aucun doute l'installation la plus complexe de Crescentia. Selon les informations trouvées sur leur GitHub, voici ce qu'elle contient : <br>
 
+- Interrupteur : 3
+- Plaque interrupteur : 3
+- Ampoule LED : 3
+- Atom POE : 2
+- Écran Raspberry Pi : 1
+- Projecteur : 2
+- Poulie : 1
+- Pomme en plastique : 1
+- TOF : 1
+- Écran Raspberry Pi : 6
+- haut-parleur : 4
+- interrupteurs : 1
+- Fairylight adressable : 1
+
+> [!WARNING]  
+> Les informations concernant l'installation sont basées sur le GitHub du projet. Ce dernier contient également un fichier Excel, mais il semble incomplet.
+
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/effet_papillion_ecrans.png)
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/effet_papillion_projecteur.png)
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/effet_papillion_raspberry_pie.png)
 ![](https://raw.githubusercontent.com/Iteration6/Effet-Papillon/2b2e73f72208211f2ff77f123d528beb9cf9ef03/docs/preproduction/medias/plantation.drawio.png)
 *Croquis officiel récupéré sur la page github du projet, ce dernier représente l'installation du projet*
+
 
 ### Cours prérequis à l'élaboration d'un projet similaire
 * **Audio 1-2** l'usage de sons est omniprésents dans le projet, les notions suivantes ont été utilisé : Coordinateur son, création des paysages sonores, intégration de sons dans l'espace physique. <br>
 * **Modélisation 3D** une scène 3d ainsi qu'un modèle de cerf en 3d ont été modélisé afin de répondre à la demande du projet<br>
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/effet_papillion_maya_3d.png)
+*modèle 3d fait sur maya dans le cadre du projet*
 * **Oeuvres et dispositifs multimédias en exposition** <br> Afin de mieux comprendre comment les oeuvres sont produites et afin de pouvoir se lancer dans un projet, il faut un certain nombre de connaissances. Je pense que le cours est primordial, pas qu'à ce projet, mais absolument tous les autres, se lancer dans l'élaboration d'une oeuvre sans ce cours, c'est commencer sans des notions de base.
 
 ### Projet réalisé par : 
@@ -189,6 +212,10 @@ L'installation se déroule dans une pièce entourée de 3 murs blancs, dont 2 so
 ![](https://raw.githubusercontent.com/Sonalux2024/Sonalux/main/docs/preproduction/medias/schemas/schema_branchement.png) <br>
 ![](https://raw.githubusercontent.com/Sonalux2024/Sonalux/main/docs/preproduction/medias/schemas/schema_branchement_boite_sonore.png) <br>
 *Croquis officiel récupéré sur la page github du projet, ce dernier représente l'installation du projet*
+
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/sonalux_scene.png)
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/sonalux_neon_2.png)
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/sonalux_neon_3.png)
 
 Voici les éléments utilisés :
 - Audio
@@ -247,10 +274,18 @@ Voici les éléments utilisés :
 ## Canevas Cosmique _______________________________________________________
 
 ### Intention du projet
+Canevas Cosmique est un projet où l'utilisateur peut interagir avec une table en y plaçant des statuettes représentant soit des planètes, soit des phénomènes. Chaque statuette placée sur la table fera apparaître des modèles 3D correspondant à ces dernières. L'intention du projet est de permettre à l'utilisateur d'expérimenter et de découvrir les diverses possibilités qui s'offrent à lui via une activité ludique. L'installation est située dans l'entrée du grand studio, entourée de rideaux et projetée sur le mur en face, avec un Raspberry Pi, une caméra infrarouge et un projecteur sous la table.
 
+
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/canevas_cosmique_table.png)
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/canevas_cosmique_projection.png)
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/canevas_cosmique_projection_2.png)
 
 ### L'installation 
-
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/canevas_cosmique_baffe.png)
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/canevas_cosmique_baffe_2.png)
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/canevas_cosmique_kinet.png)
+![]()
 ![]()
 *Croquis officiel récupéré sur la page github du projet, ce dernier représente l'installation du projet*
 
