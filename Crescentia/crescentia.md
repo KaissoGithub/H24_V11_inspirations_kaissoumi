@@ -180,9 +180,8 @@ L'installation de l'effet papillon est sans aucun doute l'insallation la plus co
 
 ## Sonalux _______________________________________________________
 
-
 ### Intention du projet
-
+Sonalux vise à laisser l'utilisateur libre des actions qu'il entreprend afin de lui permettre de se plonger dans un monde stimulant. Au fur et à mesure des actions, le niveau d'intensité graphique et sonore augmentera jusqu'à créer un environnement chaotique avec une ambiance particulière.
 
 ### L'installation 
 L'installation se déroule dans une pièce entourée de 3 murs blancs, dont 2 sont mobiles (bien que je ne me souvienne pas les avoir vus bouger). Des images et des sons sont projetés à l'aide d'un "M5Stack" positionné sur un podium. Des LED sont placées dans des tubes en plastique transparent pour la décoration, et elles changent de couleur en fonction des actions de l'utilisateur.
