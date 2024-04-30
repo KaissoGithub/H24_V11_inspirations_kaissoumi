@@ -89,6 +89,16 @@ Elle comprend essentiellement : <br>
 * **Felix Testa Radovanovic**
 
 ## Effet-Papillon _______________________________________________________
+L'Effet Papillon est une installation interactive où l'utilisateur peut effectuer différentes actions, comme dans un effet domino. Chaque action aura un impact sur le déroulement du projet, même s'il est en réalité linéaire. On suit le développement de la pomme, de la graine jusqu'au fruit.
+
+### Intention du projet
+Le projet vise à sensibiliser l'utilisateur aux conséquences de ses actions, qui se manifestent visuellement ou sensoriellement sur la "cyber-pomme" du projet. À la fin de l'expérience, l'utilisateur est encouragé à la revivre. La finalité du projet se concrétise en une boucle où la graine de la pomme se transforme en arbre, produit un fruit, mûrit, meurt, puis reproduit une autre graine pour recommencer le cycle.
+
+### L'installation 
+L'installation de l'effet papillon est sans aucun doute l'insallation la plus complexe de crescentia,
+
+![](https://raw.githubusercontent.com/Iteration6/Effet-Papillon/2b2e73f72208211f2ff77f123d528beb9cf9ef03/docs/preproduction/medias/plantation.drawio.png)
+*Croquis officiel récupéré sur la page github du projet, ce dernier représente l'installation du projet*
 
 ### Cours prérequis à l'élaboration d'un projet similaire
 * **Audio 1-2** l'usage de sons est omniprésents dans le projet, les notions suivantes ont été utilisé : Coordinateur son, création des paysages sonores, intégration de sons dans l'espace physique. <br>
@@ -111,6 +121,12 @@ Elle comprend essentiellement : <br>
 
 
 ### L'installation 
+L'installation se déroule dans une pièce entourée de 3 murs blancs, dont 2 sont mobiles (bien que je ne me souvienne pas les avoir vus bouger). Des images et des sons sont projetés à l'aide d'un "M5Stack" positionné sur un podium. Des LED sont placées dans des tubes en plastique transparent pour la décoration, et elles changent de couleur en fonction des actions de l'utilisateur.
+
+![](https://raw.githubusercontent.com/Sonalux2024/Sonalux/main/docs/preproduction/medias/schemas/schema_branchement.png) <br>
+![](https://raw.githubusercontent.com/Sonalux2024/Sonalux/main/docs/preproduction/medias/schemas/schema_branchement_boite_sonore.png) <br>
+*Croquis officiel récupéré sur la page github du projet, ce dernier représente l'installation du projet*
+
 
 
 ### Cours prérequis à l'élaboration d'un projet similaire
@@ -130,6 +146,10 @@ Elle comprend essentiellement : <br>
 
 
 ### L'installation 
+
+
+![]()
+*Croquis officiel récupéré sur la page github du projet, ce dernier représente l'installation du projet*
 
 ### Cours prérequis à l'élaboration d'un projet similaire
 * **Modélisation 3D** Le projet affiche des planètes entièrement modélisés en 3D. <br>
