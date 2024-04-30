@@ -34,6 +34,42 @@ Elle est plutôt simple, cette dernière comprend les éléments suivants :
 ![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/kigo_scene.png)
 *Nous retrouvons ici une image de l'installation sans joueur actif, la zone est délimitée avec du ruban adhésif fluorescent*
 
+En détail, voici les éléments utilisés : 
+
+- Audio
+    - 1 Console de sons
+    - 1 Carte de sons
+    - 2 Haut-parleurs Genelec 8010APM
+    - 4 Câbles XLR (M->F) (Longueur minimale estimée entre 4-6 mètres)
+
+- Vidéo
+    - 1 Projecteur
+    - 1 Kinect V2
+    - 1 système d'accrochage pour le projecteur
+
+- Électricité
+    - 2 Cordons IEC (pour alimenter les haut-parleurs)
+    - 2 Multiprises
+    - 2 Extensions de fils électrique (Longueur minimale estimée entre 6-8 mètres)
+    - 1 Câble d’alimentation pour ordinateur
+    - 1 Câble d’alimentation pour console de son
+
+- Réseau
+    - 2 Fils Ethernet (longueur minimale estimée entre 4-8 mètres)
+    - 1 HDMI Extender
+    - 2 Câbles HDMI
+    - 1 Câble DisplayPort
+
+- Ordinateur
+    - 1 Chariot Ordinateur
+
+- Autres
+    - Tapis de protection
+    - 3 Safety en métal
+    - 1 Powercon
+    - 1 Magic Arm
+
+
 ### Cours prérequis à l'élaboration d'un projet similaire
 * **Modélisation 3D** <br> Le projet utilise des modèles 3D, il est donc évident qu'afin d'en avoir, il faut les produires.
 * **Animation 3D** <br> Certaines animations ont été utilisées dans le cadre du projet, notamment au niveau d'une hélice qui tournait et qui représentait un obstacle.
@@ -76,6 +112,36 @@ Elle comprend essentiellement : <br>
 
 ![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/rhizomathique_croquis.png)
 *Croquis officiel récupéré sur la page github du projet, ce dernier représente l'installation*
+
+En détail, voici les éléments utilisés :
+- Audio
+    - 4 haut-parleurs actifs de 4"
+    - 5 fils XLR 3 conducteurs de 15'
+    - powercon
+
+- Vidéo
+    - 4 systèmes d'accrochage
+    - 2 kinects
+    - 3 câbles HDMI
+
+- Lumière
+    - 1 lumières LED RGBAW DMX
+    - 2 fils XLR 3 conducteurs de 20'
+    - powercon
+
+- Électricité
+    - 2 cordons IEC (pour l'alimentation des haut-parleurs)
+    - 2 extensions
+
+- Réseau
+    - 4 câbles Ethernet
+    - 3 receivers et transmitters
+
+- Ordinateurs
+    - 1 ordinateur portable
+
+- Autres
+
 
 ### Cours prérequis à l'élaboration d'un projet similaire
 * **Vidéo 1-2** <br> Le projet utilise de nombreuses vidéos et certains effets sont appliqués sur ces derniers, les étudiants ont utilisé davinci resolve, il est donc évident que les cours de vidéos sont utiles à l'élaboration du projet.
@@ -127,6 +193,47 @@ L'installation se déroule dans une pièce entourée de 3 murs blancs, dont 2 so
 ![](https://raw.githubusercontent.com/Sonalux2024/Sonalux/main/docs/preproduction/medias/schemas/schema_branchement_boite_sonore.png) <br>
 *Croquis officiel récupéré sur la page github du projet, ce dernier représente l'installation du projet*
 
+Voici les éléments utilisés :
+- Audio
+    - 2 haut-parleurs actifs de 4"
+    - 4 fils XLR 3 conducteurs de 15' (M->F)
+    - Interface audio USB disposant de 8 sorties et au moins 1 entrée
+    - 4 casques d'écouteurs
+    - Carte de son
+
+- Vidéo
+    - 3 projecteurs vidéo lentille grand angle 0.5
+
+- Lumière
+    - 12 tubes DEL
+    - Spotlight
+
+- Électricité
+    - 4 cordons IEC (pour l'alimentation des haut-parleurs)
+    - 2 extensions 3 fiches et 3 conducteurs
+    - 2 multiprises
+
+- Réseau
+    - 4 fils cat6a de 15"
+    - Switch POE 5 ports
+
+- Ordinateur
+    - 1 ordinateur portable
+    - 1 ordinateur sur chariot
+
+- M5Stack
+    - 3 Atom Lite
+    - 3 Atom POE
+    - 5 Angle Unit
+    - 4 Key Unit
+    - 2 ToF Unit
+    - 2 PBHub
+    - 1 GroveHub
+    - 1 PaHub
+
+- Autre
+    - Podium
+    - 4 crochets
 
 
 ### Cours prérequis à l'élaboration d'un projet similaire
@@ -147,9 +254,40 @@ L'installation se déroule dans une pièce entourée de 3 murs blancs, dont 2 so
 
 ### L'installation 
 
-
 ![]()
 *Croquis officiel récupéré sur la page github du projet, ce dernier représente l'installation du projet*
+
+Voici les éléments utilisés
+
+- Lumière
+    - 1 Lumière DMX
+
+- Audio
+    - 2 haut-parleurs
+    - 5 fils XLR 3 conducteurs de 15' (M->F)
+    - 1 carte de son
+
+- Vidéo
+    - 1 projecteur vidéo shortrow
+    - 1 projo ultra short-throw
+    - 3 système d'accrochage
+    - 1 KinectV2
+
+- Électricité
+    - 2 cordons IEC (pour l'alimentation des haut-parleurs)
+    - 4 Multiprises
+
+- Réseau
+    - Switch poe 1 port
+    - Switch Ethernet 3 ports
+    - 7 Câbles Ethernet
+    - 4 Câbles HDMI
+    - 2 Receivers HDMI
+    - 2 Sender HDMI
+
+- Ordinateur
+    - 1 ordinateur
+    - 1 laptop
 
 ### Cours prérequis à l'élaboration d'un projet similaire
 * **Modélisation 3D** Le projet affiche des planètes entièrement modélisés en 3D. <br>
