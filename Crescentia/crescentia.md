@@ -1,10 +1,10 @@
-# Crescentia _______________________________________________________
+# Crescentia
 
 ![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/crescentia_banniere.png)
 
 Crescentia est un regroupement de projets étudiants en fin de session, il représente l'aboutissement des connaissances que ces derniers ont acquis au fil de leurs parcours académiques, nous retrouvons principalement des oeuvres interactives et ces dernières sont exposées au grand et petit studio.
 
-## Kigo _______________________________________________________
+## Kigo
 
 Kigo est de loin mon oeuvre favorite, installée au grand studio, nous jouons à ce jeu en étant physiquement debout devant un capteur de mouvement (kinect) et sur un tapis avec un espace dégagé, un projecteur affiche l'écran de jeu sur un mur. Les règles de Kigo sont simples, nous sommes dans un monde aux allures futuristes où l'on doit esquiver des obstacles et collecter des points en se dirigeant sur les éléments qui représentent des bonus. Le jeu est très physique, il faudra se déplacer de gauche à droite et parfois s'accroupir afin d'éviter les obstacles qui se présenteront. Suite à quelques sessions, on se retrouve rapidement essoufflé et c'est selon moi une bonne chose, car rares sont les jeux ludiques où il faut impérativement faire de l'effort physique pour avoir un bon sport. Pour l'anecdote, après quelques parties, je me suis retrouvé le lendemain avec des courbatures.
 <br>
@@ -87,7 +87,7 @@ En détail, voici les éléments utilisés :
 * **Antoine Dion**
 
 
-## Rhizomatique _______________________________________________________
+## Rhizomatique 
 
 Rhizomatique est une oeuvre plutôt spéciale et unique en son genre, elle représente l'interaction que l'utilisateur peut avoir avec ses souvenirs. La personne qui souhaite interagir avec le projet doit passer devant un présentoir où une toile en tissu et une projection l'attendront, lorsque ce dernier touchera certaines zones de la toile, elles s'illumineront et la projection sombre à l'écran s'éclaircira. Elle présentera à l'usager des souvenirs enfouis dans la mémoire d'une personne supposément inconnue. Plus la pression et les mouvements sur la toile sont grands, plus le nombre de souvenirs affichés à l'écran ainsi que le niveau de clarté augmenteront.
 
@@ -152,7 +152,7 @@ En détail, voici les éléments utilisés :
 * **Laurie Houde**
 * **Felix Testa Radovanovic**
 
-## Effet-Papillon _______________________________________________________
+## Effet-Papillon
 L'Effet Papillon est une installation interactive où l'utilisateur peut effectuer différentes actions, comme dans un effet domino. Chaque action aura un impact sur le déroulement du projet, même s'il est en réalité linéaire. On suit le développement de la pomme, de la graine jusqu'au fruit.
 
 ### Intention du projet
@@ -201,7 +201,7 @@ L'installation de l'effet papillon est sans aucun doute l'installation la plus c
 * **Jasmine Lapierre**
 
 
-## Sonalux _______________________________________________________
+## Sonalux 
 
 ### Intention du projet
 Sonalux vise à laisser l'utilisateur libre des actions qu'il entreprend afin de lui permettre de se plonger dans un monde stimulant. Au fur et à mesure des actions, le niveau d'intensité graphique et sonore augmentera jusqu'à créer un environnement chaotique avec une ambiance particulière.
@@ -271,7 +271,7 @@ Voici les éléments utilisés :
 * **Ghita Alaoui**
 * **Vincent Desjardin**
 
-## Canevas Cosmique _______________________________________________________
+## Canevas Cosmique
 
 ### Intention du projet
 Canevas Cosmique est un projet où l'utilisateur peut interagir avec une table en y plaçant des statuettes représentant soit des planètes, soit des phénomènes. Chaque statuette placée sur la table fera apparaître des modèles 3D correspondant à ces dernières. L'intention du projet est de permettre à l'utilisateur d'expérimenter et de découvrir les diverses possibilités qui s'offrent à lui via une activité ludique. L'installation est située dans l'entrée du grand studio, entourée de rideaux et projetée sur le mur en face, avec un Raspberry Pi, une caméra infrarouge et un projecteur sous la table.
