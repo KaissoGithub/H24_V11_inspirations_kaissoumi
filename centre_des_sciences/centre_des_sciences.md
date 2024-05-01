@@ -3,10 +3,14 @@ Le 10 avril, nous avons visité le centre des sciences de Montréal où nous avo
 
 
 ## [❤️ Ce qui vous a plu, vous a donné des idées 
-1. L'utilisation de la kinect
-1. Le rendu en temps réel
-1. La salle sombre
-1. Les bancs
+1. **L'utilisation de la kinect** <br>
+La Kinect a d'abord été développée pour la Xbox et son utilisation est souvent associée aux jeux vidéo. Cependant, j'ai remarqué qu'elle est beaucoup plus présente dans le monde du multimédia. C'est une façon originale d'utiliser quelque chose qui n'a pas été conçu initialement pour la création d'oeuvre.
+1. **Le rendu en temps réel** <br>
+Nous avons accès en temps réel à un rendu d'un squelette qui ne nous appartient pas, mais qui agit en fonction de nos propres mouvements. Cela donne l'impression d'avoir réellement une nouvelle morphologie, ce qui est plutôt impressionnant.
+1. **La salle sombre** <br>
+Afin d'augmenter l'immersion de l'oeuvre, l'éclairage a été réduit jusqu'à obtenir une salle sombre. Ce choix n'est pas anodin, car l'exposition aurait très bien pu se dérouler dans un environnement éclairé. Cependant, ils ont opté pour un environnement sombre, ce qui favorise une meilleure appréciation de l'oeuvre.
+1. **Les bancs** <br>
+Des bancs ont été placés afin de permettre à plusieurs personnes d'apprécier l'oeuvre sans créer de frustration. Bien que celle-ci fonctionne uniquement avec une personne à la fois, les autres peuvent attendre leur tour sans devoir rester debout en permanence. Ce choix réduit la frustration pour la personne testant l'oeuvre, qui pourrait sinon se sentir pressée de terminer, ainsi que pour les personnes contraintes d'attendre leur tour.
 
 ## [🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications]
 **La précision des capteurs de mouvements laissaient à désirer**
