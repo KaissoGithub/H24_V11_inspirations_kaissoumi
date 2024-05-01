@@ -36,5 +36,4 @@ Je vais présenter mon expérience de visite de l'œuvre "Grotte de Glace" à Ag
    - Connexions avec d'autres installations interactives découvertes lors de la session.
 
 ## Conclusion :
-Rappel des aspects présentés, mettant en avant l'immersion et l'interactivité de l'œuvre "Grotte de Glace".
-Ouverture sur l'inspiration tirée de cette expérience pour de futures créations artistiques.
+Retour sur l'ensemble de la visite en mettant en avant les points à retenir pour mes propres créations
