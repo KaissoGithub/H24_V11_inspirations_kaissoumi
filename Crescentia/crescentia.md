@@ -6,10 +6,13 @@ Crescentia est un regroupement de projets étudiants en fin de session, il repr�
 
 ## Kigo
 
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/cartel_kigo.png)
 Kigo est de loin mon oeuvre favorite, installée au grand studio, nous jouons à ce jeu en étant physiquement debout devant un capteur de mouvement (kinect) et sur un tapis avec un espace dégagé, un projecteur affiche l'écran de jeu sur un mur. Les règles de Kigo sont simples, nous sommes dans un monde aux allures futuristes où l'on doit esquiver des obstacles et collecter des points en se dirigeant sur les éléments qui représentent des bonus. Le jeu est très physique, il faudra se déplacer de gauche à droite et parfois s'accroupir afin d'éviter les obstacles qui se présenteront. Suite à quelques sessions, on se retrouve rapidement essoufflé et c'est selon moi une bonne chose, car rares sont les jeux ludiques où il faut impérativement faire de l'effort physique pour avoir un bon sport. Pour l'anecdote, après quelques parties, je me suis retrouvé le lendemain avec des courbatures.
 <br>
 
 Le jeu a été développé sous unity, certaines connaissances en programmations ont donc été requises afin d'élaborer ce projet, l'utilisation de kinect studio était obligatoire afin d'avoir un intermédiaire entre le jeu et la kinect. Afin de modéliser et d'animer les modèles 3D du projet, Blender ou Maya a été utilisé. Pour la partie sonore, c'est grâce à Reaper que l'équipe de Kigo ont été en mesure de s'organiser.
+
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/kigo_jeu.png)
 
 ### Intention du projet
 Selon les créateurs du projet, kigo est un jeu où chaque niveau représente une saison, il y a donc 4 niveaux de difficultés qui incrémente selon les performances du joueur. Ils voulaient également prouver aux professeurs et aux joueurs l'étendue des connaissances qu'ils ont acquises durant leur technique.
@@ -88,7 +91,8 @@ En détail, voici les éléments utilisés :
 
 
 ## Rhizomatique 
-
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/cartel_rhizomatique.png)
+*Cartel du projet*
 Rhizomatique est une oeuvre plutôt spéciale et unique en son genre, elle représente l'interaction que l'utilisateur peut avoir avec ses souvenirs. La personne qui souhaite interagir avec le projet doit passer devant un présentoir où une toile en tissu et une projection l'attendront, lorsque ce dernier touchera certaines zones de la toile, elles s'illumineront et la projection sombre à l'écran s'éclaircira. Elle présentera à l'usager des souvenirs enfouis dans la mémoire d'une personne supposément inconnue. Plus la pression et les mouvements sur la toile sont grands, plus le nombre de souvenirs affichés à l'écran ainsi que le niveau de clarté augmenteront.
 
 ### Intention du projet
@@ -153,6 +157,8 @@ En détail, voici les éléments utilisés :
 * **Felix Testa Radovanovic**
 
 ## Effet-Papillon
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/cartel_effet_papillon.png)
+*Cartel du projet*
 L'Effet Papillon est une installation interactive où l'utilisateur peut effectuer différentes actions, comme dans un effet domino. Chaque action aura un impact sur le déroulement du projet, même s'il est en réalité linéaire. On suit le développement de la pomme, de la graine jusqu'au fruit.
 
 ### Intention du projet
@@ -202,12 +208,19 @@ L'installation de l'effet papillon est sans aucun doute l'installation la plus c
 
 
 ## Sonalux 
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/cartel_sonalux.png)
+*Cartel du projet*
 
 ### Intention du projet
 Sonalux vise à laisser l'utilisateur libre des actions qu'il entreprend afin de lui permettre de se plonger dans un monde stimulant. Au fur et à mesure des actions, le niveau d'intensité graphique et sonore augmentera jusqu'à créer un environnement chaotique avec une ambiance particulière.
 
 ### L'installation 
 L'installation se déroule dans une pièce entourée de 3 murs blancs, dont 2 sont mobiles (bien que je ne me souvienne pas les avoir vus bouger). Des images et des sons sont projetés à l'aide d'un "M5Stack" positionné sur un podium. Des LED sont placées dans des tubes en plastique transparent pour la décoration, et elles changent de couleur en fonction des actions de l'utilisateur.
+
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/sonalux.png)
+*Sonalux en action*
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/sonalux_boutons.png)
+*Boutons contrôlant l'expérience*
 
 ![](https://raw.githubusercontent.com/Sonalux2024/Sonalux/main/docs/preproduction/medias/schemas/schema_branchement.png) <br>
 ![](https://raw.githubusercontent.com/Sonalux2024/Sonalux/main/docs/preproduction/medias/schemas/schema_branchement_boite_sonore.png) <br>
@@ -272,10 +285,13 @@ Voici les éléments utilisés :
 * **Vincent Desjardin**
 
 ## Canevas Cosmique
+![](https://github.com/KaissoGithub/H24_V11_inspirations_kaissoumi/blob/main/Crescentia/media/cartel_canevas_cosmique.png)
+*Cartel du projet*
 
 ### Intention du projet
 Canevas Cosmique est un projet où l'utilisateur peut interagir avec une table en y plaçant des statuettes représentant soit des planètes, soit des phénomènes. Chaque statuette placée sur la table fera apparaître des modèles 3D correspondant à ces dernières. L'intention du projet est de permettre à l'utilisateur d'expérimenter et de découvrir les diverses possibilités qui s'offrent à lui via une activité ludique. L'installation est située dans l'entrée du grand studio, entourée de rideaux et projetée sur le mur en face, avec un Raspberry Pi, une caméra infrarouge et un projecteur sous la table.
 
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/canevas_cosmique_statuettes.png)
 
 ![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/canevas_cosmique_table.png)
 ![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/Crescentia/media/canevas_cosmique_projection.png)
