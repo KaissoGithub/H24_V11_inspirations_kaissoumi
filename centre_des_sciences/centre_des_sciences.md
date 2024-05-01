@@ -1,5 +1,5 @@
 ## [📃 Résumé de l'expérience]
-Le 10 avril, nous avons visité le centre des sciences de Montréal où nous avons pu admirer diverses œuvres multimédias. Un guide nous a accompagnés et nous a expliqué le fonctionnement des nombreuses oeuvres que nous avons observées ainsi que ses composantes. Par la suite, nous avons eu une séance de questions réponses avec le guide, pour finir, nous avons été libre de visiter le centre comme bon nous semblaient.
+Le 10 avril, nous avons visité le centre des sciences de Montréal où nous avons pu admirer diverses oeuvres multimédias. Un guide nous a accompagnés et nous a expliqué le fonctionnement des nombreuses oeuvres que nous avons observées ainsi que ses composantes. Par la suite, nous avons eu une séance de questions réponses avec le guide, pour finir, nous avons été libre de visiter le centre comme bon nous semblaient.
 
 
 ## [❤️ Ce qui vous a plu, vous a donné des idées 
@@ -13,7 +13,7 @@ Afin d'augmenter l'immersion de l'oeuvre, l'éclairage a été réduit jusqu'à 
 Des bancs ont été placés afin de permettre à plusieurs personnes d'apprécier l'oeuvre sans créer de frustration. Bien que celle-ci fonctionne uniquement avec une personne à la fois, les autres peuvent attendre leur tour sans devoir rester debout en permanence. Ce choix réduit la frustration pour la personne testant l'oeuvre, qui pourrait sinon se sentir pressée de terminer, ainsi que pour les personnes contraintes d'attendre leur tour.
 
 ## [🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications]
-**La précision des capteurs de mouvements laissaient à désirer**
+**La précision des capteurs de mouvements laissaient à désirer** <br> Bien que la salle soit sombre et dégagée, la Kinect utilisée avait du mal à évaluer nos mouvements, ce qui rendait la sélection des choix dans les menus fastidieuse. Par exemple, je n'ai pas pu sélectionner certains éléments en raison de ces problèmes techniques, ce qui a affecté mon expérience. Est-ce que ce problème est lié au fait que l'exposition est en place depuis un certain temps ? Est-ce que la Kinect a accumulé trop de poussière devant ses capteurs ? Si j'avais une oeuvre permanente ou à longue durée, je vérifierais son fonctionnement quotidiennement en début de journée. Cela ne prendrait que très peu de temps et je m'assurerais que les utilisateurs puissent profiter de l'expérience telle qu'elle a été conçue.
 
 ## [🔧 Spécifications techniques]
 Une kinecte est installée et incrustée dans un mur, un projecteur est accroché au plafond, une toile
