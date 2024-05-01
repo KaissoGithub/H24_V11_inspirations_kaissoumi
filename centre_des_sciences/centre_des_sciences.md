@@ -13,6 +13,9 @@ Nous nous trouvons dans une salle sombre où un projecteur affiche à l'écran l
 ![](https://github.com/KaissoGithub/H24_V11_inspirations_kaissoumi/blob/main/centre_des_sciences/media/selection_choix.png)
 *Moi face à la sélection des choix et au rendu sélectionné*
 
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/centre_des_sciences/media/moi_en_chauve_souris.png)
+*Moi en chauve-souris*
+
 ## [❤️ Ce qui vous a plu, vous a donné des idées 
 1. **L'utilisation de la kinect** <br>
 La Kinect a d'abord été développée pour la Xbox et son utilisation est souvent associée aux jeux vidéo. Cependant, j'ai remarqué qu'elle est beaucoup plus présente dans le monde du multimédia. C'est une façon originale d'utiliser quelque chose qui n'a pas été conçu initialement pour la création d'oeuvre. La détection des mouvements dans le monde des oeuvres et des jeux vidéo est quelque chose de plutôt anecdotique alors que c'est une technologie intéressante que j'apprécie.
