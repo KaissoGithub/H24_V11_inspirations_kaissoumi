@@ -2,25 +2,21 @@
 Le 10 avril, nous avons visité le centre des sciences de Montréal où nous avons pu admirer diverses œuvres multimédias. Un guide nous a accompagnés et nous a expliqué le fonctionnement des nombreuses oeuvres que nous avons observées ainsi que ses composantes. Par la suite, nous avons eu une séance de questions réponses avec le guide, pour finir, nous avons été libre de visiter le centre comme bon nous semblaient.
 
 
-
 ## [❤️ Ce qui vous a plu, vous a donné des idées 
 1. L'utilisation de la kinect
 1. Le rendu en temps réel
 1. La salle sombre
 1. Les bancs
 
-**tous ces éléments ont grandement contribué à l'immersion que l'on a expérimentée lors de l'exposition**
-
 ## [🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications]
-**La précision des capteurs**
+**La précision des capteurs de mouvements laissaient à désirer**
 
 ## [🔧 Spécifications techniques]
-
+Une kinecte est installée et incrustée dans un mur, un projecteur est accroché au plafond, une toile
 
 * **x**
-  
+![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/centre_des_sciences/media/projecteur.png)
 ![](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/centre_des_sciences/media/kinect.png)
-![]()
 
 * **x**
 
@@ -35,7 +31,7 @@ Le 10 avril, nous avons visité le centre des sciences de Montréal où nous avo
 ![]()
 
 ### [📷 Lieu de mise en exposition]
-* **Moi devant l'entrée**
+* **Moi devant l'entrée du centre des sciences**
   
 ![Moi devant l'entrée](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/centre_des_sciences/media/moi.png)
 
@@ -46,13 +42,6 @@ Le 10 avril, nous avons visité le centre des sciences de Montréal où nous avo
 ### [📷 Titre de l’oeuvre]
 
 ![Titre](https://raw.githubusercontent.com/KaissoGithub/H24_V11_inspirations_kaissoumi/main/centre_des_sciences/media/titre_expo.png)
-
-
-### [📷 Nom de l’artiste]
-
-* **Cartel**
-  
-![Cartel]()
 
 
 
